@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "examples/*",
+]
+
+[workspace.dependencies]
+macroquad = "0.4.15"
