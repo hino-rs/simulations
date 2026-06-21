@@ -5,3 +5,5 @@ members = [
 
 [workspace.dependencies]
 macroquad = "0.4.15"
+glam = "0.33.1"
+rand = "0.10.0"
